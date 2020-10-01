@@ -3,3 +3,5 @@
 Further, commits don't count, so personally-maintained projects are ignored.
 
 This repository is intended to fulfill the PR requirement so that I can work on my real OSS contributions without worrying about overhead.
+
+Discussion on PR spam caused by this event: https://news.ycombinator.com/item?id=24643894
